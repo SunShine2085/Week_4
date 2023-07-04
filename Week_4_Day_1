@@ -1,0 +1,27 @@
+#Basic While
+#a
+# j = 4
+# while j > -4:
+#     print(j)
+#     j -= 1
+
+#b
+# string = "Hello"
+# builder = ""
+# i = 0
+# while i < len(string):
+#     builder += string[i].swapcase()
+#     print(i, builder)
+#     i += 1
+# print(string, "->", builder)
+
+#c
+# x = 0
+# i = 1
+# while x < 20:
+#     if x > 5:
+#         x += 15
+#     else:
+#         x += 1
+#     print(i, x)
+#     i += 1
